@@ -18,3 +18,7 @@ returns from Server side, this game made like professional games, it has no secu
 This game must continue until the last character remains. The player with the last living character is the winner, but DEVELOPMENT STOPPED.
 
 If you want, you can continue to develop.
+
+
+https://github.com/Lessyzz/RollandFun/assets/102208615/cd5e3e2f-83fa-42e3-a5e1-d779c9263129
+
