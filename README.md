@@ -21,9 +21,9 @@ If you want, you can continue to develop.
 
 ---
 
-- Server.py = Server side
+- Server.py = Server side.
 
-- Client.py = Client side
+- Client.py = Client side.
 
 - Game.py = Character stats and dice roll function (Requires for Server side).
 
