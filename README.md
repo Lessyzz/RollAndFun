@@ -19,6 +19,15 @@ This game must continue until the last character remains. The player with the la
 
 If you want, you can continue to develop.
 
+---
+
+- Server.py = Server side
+
+- Client.py = Client side
+
+- Game.py = Character stats and dice roll function (Requires for Server side).
+
+- Interface.py = Game interface, images, gifs etc. (Requires for Client side).
+
 
 https://github.com/Lessyzz/RollandFun/assets/102208615/cd5e3e2f-83fa-42e3-a5e1-d779c9263129
-
